@@ -31,7 +31,7 @@
       
   
   - name: Get key 
-    command: "r1soft-setup --get-key  http://3.84.5.130:8080"
+    command: "r1soft-setup --get-key  http://54.196.230.91:8080"
     ignore_errors: true
   
   
